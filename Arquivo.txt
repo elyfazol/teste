@@ -1,1 +1,2 @@
-Meu primeiro arquivo txt no repositório git.
+- Meu primeiro arquivo txt no repositório git.
+- Arquivo modificado novamente.
