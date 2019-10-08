@@ -1,3 +1,4 @@
 - Meu primeiro arquivo txt no repositório git.
 - Arquivo modificado novamente.
 - Edição pós criação de 'novo'.
+- Arquivo modificado novamente depois do merge e da criação da tag
