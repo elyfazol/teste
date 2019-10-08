@@ -1,2 +1,3 @@
 - Meu primeiro arquivo txt no repositório git.
 - Arquivo modificado novamente.
+- Edição pós criação de 'novo'.
